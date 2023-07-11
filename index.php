@@ -195,8 +195,8 @@ session_start();
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body text-center">
-                    <p class="text-white fw-bold">12 a 14 anos (sem ser open bar): Declaracão dos pais, em cartório, delegando poder para um maior ser o responsável por ele. Não sendo necessário ser parente e esse maior tem que está acompanhando o menor.</p>
-                    <p class="text-white fw-bold">15 a 17 anos (sem ser open bar): Declaracão dos pais, em cartório, delegando poder para um maior ser o responsável por ele. Não sendo necessário ser parente e nem o maior estar presente.</p>
+                    <p class="text-white fw-bold">14 a 16 anos (sem ser open bar): Podem entrar no evento acompanhados do responsável legal ou com Declaração dos pais, em cartório, delegando poder para um maior ser o responsável por ele. O maior e  responsável tem que está acompanhando o menor, como tb ser familiar do menor.</p>
+                    <p class="text-white fw-bold">16 a 17 anos (sem ser open bar): Acompanhado de responsável legal ou com Declaração dos pais, em cartório, delegando poder para um maior ser o responsável por ele. Necessariamente devem estar juntos em todo o evento. </p>
                     <button class="form-button"><a target="_blank" href="pdf/autorizacao-portaria.pdf">Download da Declaracão</a></button>
                 </div>
                 <div class="modal-footer">
